@@ -1,0 +1,224 @@
+[
+  {
+    "Biomarker Name": "Cholesterol",
+    "Associated Disease(s)": [
+      "Hyperlipidemia",
+      "Dyslipidemia",
+      "Coronary artery disease",
+      "Atherosclerosis",
+      "Heart attack",
+      "Stroke"
+    ],
+    "Application": [
+      "Diagnosis",
+      "Prognosis"
+    ],
+    "Biological Source": "Blood",
+    "Mechanism / Pathway": [
+      "Cell membrane formation",
+      "Bile production",
+      "Hormone production",
+      "Vitamin D production",
+      "Reverse cholesterol transport"
+    ],
+    "Other Relevant Terms": [
+      "LDL (Low-Density Lipoprotein) cholesterol",
+      "HDL (High-Density Lipoprotein) cholesterol",
+      "VLDL (Very Low-Density Lipoprotein) cholesterol",
+      "Triglycerides",
+      "Lipoproteins",
+      "Familial hypercholesterolemia",
+      "Saturated fat",
+      "Trans fat",
+      "Statins"
+    ]
+  },
+  {
+    "Biomarker Name": [
+      "Total cholesterol",
+      "LDL (low-density lipoprotein)",
+      "HDL (high-density lipoprotein)",
+      "Triglycerides"
+    ],
+    "Associated Disease(s)": [
+      "Heart disease",
+      "Coronary artery disease",
+      "Peripheral artery disease",
+      "Carotid artery disease",
+      "Atherosclerosis",
+      "Hyperlipidemia"
+    ],
+    "Application": [
+      "Diagnosis",
+      "Risk assessment",
+      "Monitoring of cholesterol levels"
+    ],
+    "Biological Source": [
+      "Blood"
+    ],
+    "Mechanism / Pathway": [
+      "Plaque buildup in arteries",
+      "Atherosclerosis",
+      "Lipoprotein metabolism"
+    ],
+    "Other Relevant Terms": [
+      "Lipid panel",
+      "Lipid profile",
+      "Cholesterol levels",
+      "Cardiovascular disease",
+      "Heart attack",
+      "Stroke"
+    ]
+  },
+  {
+    "Biomarkers": [
+      {
+        "Biomarker Name": "LDL Cholesterol",
+        "Associated Disease(s)": "Heart Disease, Stroke",
+        "Application": "Diagnosis, Risk Assessment",
+        "Biological Source": "Blood",
+        "Mechanism / Pathway": "Builds up on artery walls, increasing risk of heart disease",
+        "Other Relevant Terms": "Bad Cholesterol, Lipid Profile"
+      },
+      {
+        "Biomarker Name": "HDL Cholesterol",
+        "Associated Disease(s)": "Heart Disease",
+        "Application": "Diagnosis, Risk Assessment",
+        "Biological Source": "Blood",
+        "Mechanism / Pathway": "Protects against heart disease by removing LDL cholesterol from blood and arteries",
+        "Other Relevant Terms": "Good Cholesterol, Lipid Profile"
+      },
+      {
+        "Biomarker Name": "Triglycerides",
+        "Associated Disease(s)": "Coronary Artery Disease, Heart Attack, Stroke",
+        "Application": "Diagnosis, Risk Assessment",
+        "Biological Source": "Blood",
+        "Mechanism / Pathway": "Provides energy, linked to increased risk of coronary artery disease",
+        "Other Relevant Terms": "Fat, Lipid Profile"
+      },
+      {
+        "Biomarker Name": "Total Cholesterol",
+        "Associated Disease(s)": "Heart Disease",
+        "Application": "Diagnosis, Risk Assessment",
+        "Biological Source": "Blood",
+        "Mechanism / Pathway": "Measure of LDL, HDL, and other lipid components",
+        "Other Relevant Terms": "Lipid Profile"
+      },
+      {
+        "Biomarker Name": "VLDL",
+        "Associated Disease(s)": "Heart Disease",
+        "Application": "Diagnosis, Risk Assessment",
+        "Biological Source": "Blood",
+        "Mechanism / Pathway": "Produced by liver, transports triglycerides in blood",
+        "Other Relevant Terms": "Very Low-Density Lipoprotein Cholesterol"
+      }
+    ]
+  },
+  {
+    "Biomarkers": [
+      {
+        "Biomarker Name": "LDL Cholesterol",
+        "Associated Disease(s)": [
+          "Heart Attack",
+          "Stroke",
+          "Peripheral Artery Disease",
+          "Atherosclerosis"
+        ],
+        "Application": [
+          "Diagnosis",
+          "Risk Assessment"
+        ],
+        "Biological Source": "Blood",
+        "Mechanism / Pathway": "Contributes to fatty buildups in arteries",
+        "Other Relevant Terms": [
+          "Bad Cholesterol"
+        ]
+      },
+      {
+        "Biomarker Name": "HDL Cholesterol",
+        "Associated Disease(s)": [
+          "Heart Attack",
+          "Stroke"
+        ],
+        "Application": [
+          "Diagnosis",
+          "Risk Assessment"
+        ],
+        "Biological Source": "Blood",
+        "Mechanism / Pathway": "Carries LDL cholesterol away from the arteries and back to the liver",
+        "Other Relevant Terms": [
+          "Good Cholesterol"
+        ]
+      },
+      {
+        "Biomarker Name": "Triglycerides",
+        "Associated Disease(s)": [
+          "Heart Attack",
+          "Stroke"
+        ],
+        "Application": [
+          "Diagnosis",
+          "Risk Assessment"
+        ],
+        "Biological Source": "Blood",
+        "Mechanism / Pathway": "Stores excess energy from diet, contributes to fatty buildups in arteries",
+        "Other Relevant Terms": [
+          "Fat in the body"
+        ]
+      }
+    ]
+  },
+  {
+    "Biomarker Name": [
+      "Cholesterol",
+      "HDL (High-Density Lipoprotein)",
+      "LDL (Low-Density Lipoprotein)",
+      "VLDL (Very Low-Density Lipoprotein)",
+      "Triglycerides",
+      "Lipoprotein(a)"
+    ],
+    "Associated Disease(s)": [
+      "Hypercholesterolemia",
+      "Hyperlipidemia",
+      "Hyperlipoproteinemia",
+      "Coronary Artery Disease",
+      "Atherosclerosis",
+      "Carotid Artery Disease",
+      "Stroke",
+      "Peripheral Arterial Disease",
+      "Familial Hypercholesterolemia",
+      "Familial Combined Hyperlipidemia",
+      "Familial Dysbetalipoproteinemia"
+    ],
+    "Application": [
+      "Diagnosis",
+      "Prognosis",
+      "Monitoring of treatment efficacy"
+    ],
+    "Biological Source": [
+      "Blood"
+    ],
+    "Mechanism / Pathway": [
+      "Cholesterol biosynthesis",
+      "Lipid metabolism",
+      "Atherosclerotic plaque formation"
+    ],
+    "Other Relevant Terms": [
+      "Saturated fats",
+      "Unhealthy lifestyle",
+      "Physical inactivity",
+      "Smoking",
+      "Stress",
+      "Genetics",
+      "Family history",
+      "Age",
+      "Sex",
+      "Race",
+      "Ethnicity",
+      "Weight",
+      "Obesity",
+      "Statins",
+      "Lipoprotein apheresis"
+    ]
+  }
+]

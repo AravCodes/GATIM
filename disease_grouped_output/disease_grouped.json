@@ -1,0 +1,122 @@
+[
+  {
+    "Disease":"Hyperlipidemia",
+    "Associated Biomarkers":"Cholesterol, HDL (High-Density Lipoprotein), HDL (high-density lipoprotein), LDL (Low-Density Lipoprotein), LDL (low-density lipoprotein), Lipoprotein(a), Total cholesterol, Triglycerides, VLDL (Very Low-Density Lipoprotein)",
+    "Applications":"Diagnosis, Monitoring of cholesterol levels, Monitoring of treatment efficacy, Prognosis, Risk assessment",
+    "Biological Sources":"Blood",
+    "Mechanisms \/ Pathways":"Atherosclerosis, Atherosclerotic plaque formation, Bile production, Cell membrane formation, Cholesterol biosynthesis, Hormone production, Lipid metabolism, Lipoprotein metabolism, Plaque buildup in arteries, Reverse cholesterol transport, Vitamin D production",
+    "Relevant Terms":"Age, Cardiovascular disease, Cholesterol levels, Ethnicity, Familial hypercholesterolemia, Family history, Genetics, HDL (High-Density Lipoprotein) cholesterol, Heart attack, LDL (Low-Density Lipoprotein) cholesterol, Lipid panel, Lipid profile, Lipoprotein apheresis, Lipoproteins, Obesity, Physical inactivity, Race, Saturated fat, Saturated fats, Sex, Smoking, Statins, Stress, Stroke, Trans fat, Triglycerides, Unhealthy lifestyle, VLDL (Very Low-Density Lipoprotein) cholesterol, Weight"
+  },
+  {
+    "Disease":"Dyslipidemia",
+    "Associated Biomarkers":"Cholesterol",
+    "Applications":"Diagnosis, Prognosis",
+    "Biological Sources":"Blood",
+    "Mechanisms \/ Pathways":"Bile production, Cell membrane formation, Hormone production, Reverse cholesterol transport, Vitamin D production",
+    "Relevant Terms":"Familial hypercholesterolemia, HDL (High-Density Lipoprotein) cholesterol, LDL (Low-Density Lipoprotein) cholesterol, Lipoproteins, Saturated fat, Statins, Trans fat, Triglycerides, VLDL (Very Low-Density Lipoprotein) cholesterol"
+  },
+  {
+    "Disease":"Coronary artery disease",
+    "Associated Biomarkers":"Cholesterol, HDL (High-Density Lipoprotein), HDL (high-density lipoprotein), LDL (Low-Density Lipoprotein), LDL (low-density lipoprotein), Lipoprotein(a), Total cholesterol, Triglycerides, VLDL (Very Low-Density Lipoprotein)",
+    "Applications":"Diagnosis, Monitoring of cholesterol levels, Monitoring of treatment efficacy, Prognosis, Risk Assessment, Risk assessment",
+    "Biological Sources":"Blood",
+    "Mechanisms \/ Pathways":"Atherosclerosis, Atherosclerotic plaque formation, Bile production, Cell membrane formation, Cholesterol biosynthesis, Hormone production, Lipid metabolism, Lipoprotein metabolism, Plaque buildup in arteries, Provides energy, Reverse cholesterol transport, Vitamin D production, linked to increased risk of coronary artery disease",
+    "Relevant Terms":"Age, Cardiovascular disease, Cholesterol levels, Ethnicity, Familial hypercholesterolemia, Family history, Fat, Genetics, HDL (High-Density Lipoprotein) cholesterol, Heart attack, LDL (Low-Density Lipoprotein) cholesterol, Lipid Profile, Lipid panel, Lipid profile, Lipoprotein apheresis, Lipoproteins, Obesity, Physical inactivity, Race, Saturated fat, Saturated fats, Sex, Smoking, Statins, Stress, Stroke, Trans fat, Triglycerides, Unhealthy lifestyle, VLDL (Very Low-Density Lipoprotein) cholesterol, Weight"
+  },
+  {
+    "Disease":"Atherosclerosis",
+    "Associated Biomarkers":"Cholesterol, HDL (High-Density Lipoprotein), HDL (high-density lipoprotein), LDL (Low-Density Lipoprotein), LDL (low-density lipoprotein), LDL Cholesterol, Lipoprotein(a), Total cholesterol, Triglycerides, VLDL (Very Low-Density Lipoprotein)",
+    "Applications":"Diagnosis, Monitoring of cholesterol levels, Monitoring of treatment efficacy, Prognosis, Risk Assessment, Risk assessment",
+    "Biological Sources":"Blood",
+    "Mechanisms \/ Pathways":"Atherosclerosis, Atherosclerotic plaque formation, Bile production, Cell membrane formation, Cholesterol biosynthesis, Contributes to fatty buildups in arteries, Hormone production, Lipid metabolism, Lipoprotein metabolism, Plaque buildup in arteries, Reverse cholesterol transport, Vitamin D production",
+    "Relevant Terms":"Age, Bad Cholesterol, Cardiovascular disease, Cholesterol levels, Ethnicity, Familial hypercholesterolemia, Family history, Genetics, HDL (High-Density Lipoprotein) cholesterol, Heart attack, LDL (Low-Density Lipoprotein) cholesterol, Lipid panel, Lipid profile, Lipoprotein apheresis, Lipoproteins, Obesity, Physical inactivity, Race, Saturated fat, Saturated fats, Sex, Smoking, Statins, Stress, Stroke, Trans fat, Triglycerides, Unhealthy lifestyle, VLDL (Very Low-Density Lipoprotein) cholesterol, Weight"
+  },
+  {
+    "Disease":"Heart attack",
+    "Associated Biomarkers":"Cholesterol, HDL Cholesterol, LDL Cholesterol, Triglycerides",
+    "Applications":"Diagnosis, Prognosis, Risk Assessment",
+    "Biological Sources":"Blood",
+    "Mechanisms \/ Pathways":"Bile production, Carries LDL cholesterol away from the arteries and back to the liver, Cell membrane formation, Contributes to fatty buildups in arteries, Hormone production, Provides energy, Reverse cholesterol transport, Stores excess energy from diet, Vitamin D production, contributes to fatty buildups in arteries, linked to increased risk of coronary artery disease",
+    "Relevant Terms":"Bad Cholesterol, Familial hypercholesterolemia, Fat, Fat in the body, Good Cholesterol, HDL (High-Density Lipoprotein) cholesterol, LDL (Low-Density Lipoprotein) cholesterol, Lipid Profile, Lipoproteins, Saturated fat, Statins, Trans fat, Triglycerides, VLDL (Very Low-Density Lipoprotein) cholesterol"
+  },
+  {
+    "Disease":"Stroke",
+    "Associated Biomarkers":"Cholesterol, HDL (High-Density Lipoprotein), HDL Cholesterol, LDL (Low-Density Lipoprotein), LDL Cholesterol, Lipoprotein(a), Triglycerides, VLDL (Very Low-Density Lipoprotein)",
+    "Applications":"Diagnosis, Monitoring of treatment efficacy, Prognosis, Risk Assessment",
+    "Biological Sources":"Blood",
+    "Mechanisms \/ Pathways":"Atherosclerotic plaque formation, Bile production, Builds up on artery walls, Carries LDL cholesterol away from the arteries and back to the liver, Cell membrane formation, Cholesterol biosynthesis, Contributes to fatty buildups in arteries, Hormone production, Lipid metabolism, Provides energy, Reverse cholesterol transport, Stores excess energy from diet, Vitamin D production, contributes to fatty buildups in arteries, increasing risk of heart disease, linked to increased risk of coronary artery disease",
+    "Relevant Terms":"Age, Bad Cholesterol, Ethnicity, Familial hypercholesterolemia, Family history, Fat, Fat in the body, Genetics, Good Cholesterol, HDL (High-Density Lipoprotein) cholesterol, LDL (Low-Density Lipoprotein) cholesterol, Lipid Profile, Lipoprotein apheresis, Lipoproteins, Obesity, Physical inactivity, Race, Saturated fat, Saturated fats, Sex, Smoking, Statins, Stress, Trans fat, Triglycerides, Unhealthy lifestyle, VLDL (Very Low-Density Lipoprotein) cholesterol, Weight"
+  },
+  {
+    "Disease":"Heart disease",
+    "Associated Biomarkers":"HDL (high-density lipoprotein), HDL Cholesterol, LDL (low-density lipoprotein), LDL Cholesterol, Total Cholesterol, Total cholesterol, Triglycerides, VLDL",
+    "Applications":"Diagnosis, Monitoring of cholesterol levels, Risk Assessment, Risk assessment",
+    "Biological Sources":"Blood",
+    "Mechanisms \/ Pathways":"Atherosclerosis, Builds up on artery walls, HDL, Lipoprotein metabolism, Measure of LDL, Plaque buildup in arteries, Produced by liver, Protects against heart disease by removing LDL cholesterol from blood and arteries, and other lipid components, increasing risk of heart disease, transports triglycerides in blood",
+    "Relevant Terms":"Bad Cholesterol, Cardiovascular disease, Cholesterol levels, Good Cholesterol, Heart attack, Lipid Profile, Lipid panel, Lipid profile, Stroke, Very Low-Density Lipoprotein Cholesterol"
+  },
+  {
+    "Disease":"Peripheral artery disease",
+    "Associated Biomarkers":"HDL (high-density lipoprotein), LDL (low-density lipoprotein), LDL Cholesterol, Total cholesterol, Triglycerides",
+    "Applications":"Diagnosis, Monitoring of cholesterol levels, Risk Assessment, Risk assessment",
+    "Biological Sources":"Blood",
+    "Mechanisms \/ Pathways":"Atherosclerosis, Contributes to fatty buildups in arteries, Lipoprotein metabolism, Plaque buildup in arteries",
+    "Relevant Terms":"Bad Cholesterol, Cardiovascular disease, Cholesterol levels, Heart attack, Lipid panel, Lipid profile, Stroke"
+  },
+  {
+    "Disease":"Carotid artery disease",
+    "Associated Biomarkers":"Cholesterol, HDL (High-Density Lipoprotein), HDL (high-density lipoprotein), LDL (Low-Density Lipoprotein), LDL (low-density lipoprotein), Lipoprotein(a), Total cholesterol, Triglycerides, VLDL (Very Low-Density Lipoprotein)",
+    "Applications":"Diagnosis, Monitoring of cholesterol levels, Monitoring of treatment efficacy, Prognosis, Risk assessment",
+    "Biological Sources":"Blood",
+    "Mechanisms \/ Pathways":"Atherosclerosis, Atherosclerotic plaque formation, Cholesterol biosynthesis, Lipid metabolism, Lipoprotein metabolism, Plaque buildup in arteries",
+    "Relevant Terms":"Age, Cardiovascular disease, Cholesterol levels, Ethnicity, Family history, Genetics, Heart attack, Lipid panel, Lipid profile, Lipoprotein apheresis, Obesity, Physical inactivity, Race, Saturated fats, Sex, Smoking, Statins, Stress, Stroke, Unhealthy lifestyle, Weight"
+  },
+  {
+    "Disease":"Hypercholesterolemia",
+    "Associated Biomarkers":"Cholesterol, HDL (High-Density Lipoprotein), LDL (Low-Density Lipoprotein), Lipoprotein(a), Triglycerides, VLDL (Very Low-Density Lipoprotein)",
+    "Applications":"Diagnosis, Monitoring of treatment efficacy, Prognosis",
+    "Biological Sources":"Blood",
+    "Mechanisms \/ Pathways":"Atherosclerotic plaque formation, Cholesterol biosynthesis, Lipid metabolism",
+    "Relevant Terms":"Age, Ethnicity, Family history, Genetics, Lipoprotein apheresis, Obesity, Physical inactivity, Race, Saturated fats, Sex, Smoking, Statins, Stress, Unhealthy lifestyle, Weight"
+  },
+  {
+    "Disease":"Hyperlipoproteinemia",
+    "Associated Biomarkers":"Cholesterol, HDL (High-Density Lipoprotein), LDL (Low-Density Lipoprotein), Lipoprotein(a), Triglycerides, VLDL (Very Low-Density Lipoprotein)",
+    "Applications":"Diagnosis, Monitoring of treatment efficacy, Prognosis",
+    "Biological Sources":"Blood",
+    "Mechanisms \/ Pathways":"Atherosclerotic plaque formation, Cholesterol biosynthesis, Lipid metabolism",
+    "Relevant Terms":"Age, Ethnicity, Family history, Genetics, Lipoprotein apheresis, Obesity, Physical inactivity, Race, Saturated fats, Sex, Smoking, Statins, Stress, Unhealthy lifestyle, Weight"
+  },
+  {
+    "Disease":"Peripheral arterial disease",
+    "Associated Biomarkers":"Cholesterol, HDL (High-Density Lipoprotein), LDL (Low-Density Lipoprotein), Lipoprotein(a), Triglycerides, VLDL (Very Low-Density Lipoprotein)",
+    "Applications":"Diagnosis, Monitoring of treatment efficacy, Prognosis",
+    "Biological Sources":"Blood",
+    "Mechanisms \/ Pathways":"Atherosclerotic plaque formation, Cholesterol biosynthesis, Lipid metabolism",
+    "Relevant Terms":"Age, Ethnicity, Family history, Genetics, Lipoprotein apheresis, Obesity, Physical inactivity, Race, Saturated fats, Sex, Smoking, Statins, Stress, Unhealthy lifestyle, Weight"
+  },
+  {
+    "Disease":"Familial hypercholesterolemia",
+    "Associated Biomarkers":"Cholesterol, HDL (High-Density Lipoprotein), LDL (Low-Density Lipoprotein), Lipoprotein(a), Triglycerides, VLDL (Very Low-Density Lipoprotein)",
+    "Applications":"Diagnosis, Monitoring of treatment efficacy, Prognosis",
+    "Biological Sources":"Blood",
+    "Mechanisms \/ Pathways":"Atherosclerotic plaque formation, Cholesterol biosynthesis, Lipid metabolism",
+    "Relevant Terms":"Age, Ethnicity, Family history, Genetics, Lipoprotein apheresis, Obesity, Physical inactivity, Race, Saturated fats, Sex, Smoking, Statins, Stress, Unhealthy lifestyle, Weight"
+  },
+  {
+    "Disease":"Familial combined hyperlipidemia",
+    "Associated Biomarkers":"Cholesterol, HDL (High-Density Lipoprotein), LDL (Low-Density Lipoprotein), Lipoprotein(a), Triglycerides, VLDL (Very Low-Density Lipoprotein)",
+    "Applications":"Diagnosis, Monitoring of treatment efficacy, Prognosis",
+    "Biological Sources":"Blood",
+    "Mechanisms \/ Pathways":"Atherosclerotic plaque formation, Cholesterol biosynthesis, Lipid metabolism",
+    "Relevant Terms":"Age, Ethnicity, Family history, Genetics, Lipoprotein apheresis, Obesity, Physical inactivity, Race, Saturated fats, Sex, Smoking, Statins, Stress, Unhealthy lifestyle, Weight"
+  },
+  {
+    "Disease":"Familial dysbetalipoproteinemia",
+    "Associated Biomarkers":"Cholesterol, HDL (High-Density Lipoprotein), LDL (Low-Density Lipoprotein), Lipoprotein(a), Triglycerides, VLDL (Very Low-Density Lipoprotein)",
+    "Applications":"Diagnosis, Monitoring of treatment efficacy, Prognosis",
+    "Biological Sources":"Blood",
+    "Mechanisms \/ Pathways":"Atherosclerotic plaque formation, Cholesterol biosynthesis, Lipid metabolism",
+    "Relevant Terms":"Age, Ethnicity, Family history, Genetics, Lipoprotein apheresis, Obesity, Physical inactivity, Race, Saturated fats, Sex, Smoking, Statins, Stress, Unhealthy lifestyle, Weight"
+  }
+]
